@@ -33,6 +33,7 @@ This project analyzes NVIDIA (NVDA) stock data to detect anomalies and forecast 
 ### Time Series Data
 Sequential observations with temporal patterns (trends, seasonality, autocorrelation).  
 Non-Time Series Data: Observations without temporal order.
+![3](https://github.com/user-attachments/assets/1ca4ad09-5908-4489-b000-5b8d006f4525)
 
 ### Components
 - 📈 **Trend**: Long-term direction.
